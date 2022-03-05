@@ -1,11 +1,8 @@
 # Youtube-clone
 Youtube clone using html and css .one of my best work<br>
-I made a classy YouTube Clone UI design Included my youtube videos 😂😂 in that clone.<br>
-Demo : https://www.youtube.com/watch?v=f5KeGg_boEM
-![](demo.png)
+I made a classy YouTube Clone UI design .<br>
+
 <br>
-Follow me ⤵️
+LinkedIn: https://www.linkedin.com/in/prem-kamble-704372207/
 <br>
-LinkedIn: https://www.linkedin.com/in/shamim-imtiyaz-11a3406b/
-<br>
-Instagram: https://www.instagram.com/imtiyaz_15/?hl=en
+Demo: ![image](https://user-images.githubusercontent.com/90962484/156893081-38855972-0a3d-4d95-bc89-d435be02519d.png)
